@@ -1,0 +1,10 @@
+[
+  {
+    "block": "valkyrienengines:solar_engine",
+    "mass": 1000
+  },
+  {
+    "block": "valkyrienengines:powered_engine",
+    "mass": 1000
+  }
+]

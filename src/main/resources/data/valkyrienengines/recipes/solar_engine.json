@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "solar_engine",
+  "ingredients": [
+
+    {"item": "minecraft:daylight_detector"},
+    {"item": "minecraft:redstone_lamp"},
+    {"item": "minecraft:daylight_detector"},
+    {"item": "minecraft:comparator"},
+    {"item": "minecraft:diamond_block"},
+    {"item": "minecraft:lapis_block"},
+    {"item": "minecraft:sticky_piston"}
+
+  ],
+  "result": {
+    "item": "valkyrienengines:solar_engine"
+  }
+}

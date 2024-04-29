@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "powered_engine",
+  "ingredients": [
+
+    {"item": "minecraft:blast_furnace"},
+    {"item": "minecraft:redstone_lamp"},
+    {"item": "minecraft:blast_furnace"},
+    {"item": "minecraft:comparator"},
+    {"item": "minecraft:dispenser"},
+    {"item": "minecraft:sticky_piston"}
+
+  ],
+  "result": {
+    "item": "valkyrienengines:powered_engine"
+  }
+}

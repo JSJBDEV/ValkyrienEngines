@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "valkyrienengines:block/powered_engine"
+    }
+  }
+}
