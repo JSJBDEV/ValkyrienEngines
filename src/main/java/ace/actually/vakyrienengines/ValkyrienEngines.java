@@ -36,8 +36,8 @@ public class ValkyrienEngines implements ModInitializer {
 
 
 
-    public static final SolarEngineBlock SOLAR_ENGINE_BLOCK = new SolarEngineBlock(AbstractBlock.Settings.copy(Blocks.GOLD_BLOCK));
-    public static final PoweredEngineBlock POWERED_ENGINE_BLOCK = new PoweredEngineBlock(AbstractBlock.Settings.copy(Blocks.GOLD_BLOCK));
+    public static final SolarEngineBlock SOLAR_ENGINE_BLOCK = new SolarEngineBlock(AbstractBlock.Settings.copy(Blocks.STONE));
+    public static final PoweredEngineBlock POWERED_ENGINE_BLOCK = new PoweredEngineBlock(AbstractBlock.Settings.copy(Blocks.STONE));
 
     private void registerBlocks()
     {

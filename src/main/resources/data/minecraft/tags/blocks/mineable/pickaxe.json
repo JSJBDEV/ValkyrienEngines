@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "valkyrienengines:powered_engine",
+    "valkyrienengines:solar_engine"
+  ]
+}

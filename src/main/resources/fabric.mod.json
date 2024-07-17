@@ -9,7 +9,7 @@
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/JSJBDEV/ValkyrienEngines"
 	},
 	"license": "MIT",
 	"icon": "assets/valkyrienengines/icon.png",
@@ -22,9 +22,7 @@
 			}
 		]
 	},
-	"mixins": [
-		"valkyrienengines.mixins.json"
-	],
+
 	"depends": {
 		"fabricloader": ">=0.15.10",
 		"minecraft": "~1.20.1",
